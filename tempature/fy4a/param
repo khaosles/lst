@@ -1,0 +1,9 @@
+--ims=/Volumes/T7/winter/TestData/fy4adown/ims/ims2021315_00UTC_4km_v1.3.asc.gz
+--lstdir=/Volumes/T7/winter/TestData/fy4adown/lst
+--lpwdir=/Volumes/T7/winter/TestData/fy4adown/tpw
+--clmdir=/Volumes/T7/winter/TestData/fy4adown/clm
+--geodir=/Volumes/T7/winter/TestData/fy4adown/l1
+--l12kmdir=/Volumes/T7/winter/TestData/fy4adown/l1
+--l14kmdir=/Volumes/T7/winter/TestData/fy4adown/l1
+--outdir=/Volumes/T7/winter/TestData/fy4adown/outdir
+--ymd=20211107
