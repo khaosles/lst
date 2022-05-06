@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-@Project ：olympic_winter_games 
+@Project ：olympic_winter_games
 @File ：main.py
 @IDE  ：PyCharm 
 @Author ：yherguot

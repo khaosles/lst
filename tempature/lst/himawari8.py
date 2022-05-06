@@ -141,4 +141,3 @@ class Himawari8(LST):
         # 列数
         column = int((self.maxLat - self.minLat) / self.RES + 0.5)
         return row, column
-
